@@ -13,14 +13,14 @@ header {
     padding: 15px;  /* Add some space inside the border */
 }
 #Colors {
-    background-image: url("C:\Users\henry\OneDrive\Desktop\Projects\website-design-system-starting\starting\Design-images\Rainbow-background.jpg");
+    background-image: url();
 }
 
 #article {
     border: 1px solid gray;  /* Adjust as per your requirement */
     margin-bottom: 20px;  /* Space between articles */
     padding: 10px;  /* Space inside the border */
-    background-image:0 url ("C:\Users\henry\OneDrive\Desktop\Projects\website-design-system-starting\starting\Design-images\Rainbow-background.jpg") ;
+    background-image:0 url  ;
 }
 .schemespan {
     text-decoration:underline;
