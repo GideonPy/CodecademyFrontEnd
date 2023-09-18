@@ -1,0 +1,36 @@
+
+header {
+    background-color:#0099ff;
+    color:white;
+}
+#nav li {
+    display:inline;
+    color: white;
+}
+#Colors, #Fonts, #Text-Styles {
+    border: 1px solid black;  /* You can adjust color, width, and style */
+    margin: 20px 0;  /* Add some space before and after each div for clarity */
+    padding: 15px;  /* Add some space inside the border */
+}
+#Colors {
+    background-image: url("C:\Users\henry\OneDrive\Desktop\Projects\website-design-system-starting\starting\Design-images\Rainbow-background.jpg");
+}
+
+#article {
+    border: 1px solid gray;  /* Adjust as per your requirement */
+    margin-bottom: 20px;  /* Space between articles */
+    padding: 10px;  /* Space inside the border */
+    background-image:0 url ("C:\Users\henry\OneDrive\Desktop\Projects\website-design-system-starting\starting\Design-images\Rainbow-background.jpg") ;
+}
+.schemespan {
+    text-decoration:underline;
+    font-weight:bold;
+}
+
+#Colors h3 {
+    text-transform:uppercase;
+}
+#Fonts {
+
+}
+
